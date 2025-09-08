@@ -11,7 +11,7 @@ public class VistaConsola {
         System.out.println("Dos jugadores se turnan para encontrar parejas");
         System.out.println("Ingrese coordenadas como: fila columna");
         System.out.println("Ejemplo: 2 3 (fila 2, columna 3)");
-        System.out.println("=================================================");
+        System.out.println("=================================================================");
     }
     
     public void mostrarTablero(JuegoMemoria juego) {
